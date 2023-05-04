@@ -1,0 +1,11 @@
+﻿topic_id,0,1,2,3,4,5,6,7,8,label,doc_weight_sum_brit,doc_weight_sum_amer,term_freq
+T00,time,machines,war,bomb,thing,arm,profits,strength,power,"T00 time, machines, war, bomb, thing, arm, profits, strength, power",378.1097255860914,449.1747100701646,0.08499057453467128
+T01,man,yes,moon,face,right,course,cart,time,street,"T01 man, yes, moon, face, right, course, cart, time, street",555.5728187698707,453.85071214943747,0.08704988868445053
+T02,men,way,unions,business,city,police,field,end,time,"T02 men, way, unions, business, city, police, field, end, time",430.53170072731285,382.71916151730227,0.07813921186100688
+T03,time,man,character,ship,earth,people,animals,view,purpose,"T03 time, man, character, ship, earth, people, animals, view, purpose",333.70740102370934,416.677801030411,0.10683434537730768
+T04,said,way,eyes,moment,face,house,door,room,hand,"T04 said, way, eyes, moment, face, house, door, room, hand",735.5482746599192,548.9678580305523,0.09749330965345326
+T05,men,life,mind,time,world,women,man,century,society,"T05 men, life, mind, time, world, women, man, century, society",401.938689504637,471.37862905676207,0.12291480252084509
+T06,earth,air,night,moon,time,day,course,man,machine,"T06 earth, air, night, moon, time, day, course, man, machine",412.1530684292331,377.0376434512641,0.09173043484887897
+T07,life,world,time,surplus,country,years,man,things,day,"T07 life, world, time, surplus, country, years, man, things, day",387.03037610078616,453.4535667938477,0.09535431229944759
+T08,labor,class,men,nation,day,time,people,course,army,"T08 labor, class, men, nation, day, time, people, course, army",342.845734329969,545.043375107276,0.16442362476219796
+T09,music,father,room,dont,children,day,course,meat,dollars,"T09 music, father, room, dont, children, day, course, meat, dollars",727.562210868483,395.6965427930117,0.07106949545774083
