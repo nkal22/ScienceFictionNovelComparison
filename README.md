@@ -1,5 +1,5 @@
 # Science Fiction Novel Comparison
-Using Natural Language Processing techniques to compare early British and American science fiction novels.
+Using Natural Language Processing techniques (Latent Dirichlet Allocation, Prinicpal Component Analysis, Word Embeddings, and Sentiment Analysis) to compare early British and American science fiction novels.
 
 # About This Repo
 
