@@ -5,9 +5,11 @@ Using Natural Language Processing techniques (Latent Dirichlet Allocation, Prini
 
 ## Data Subfolder
 
-Contains two folders: 'textfiles' and 'LibCorpus&Vocab'
+Contains three folders: 'textfiles', 'csvfiles', and 'LibCorpus&Vocab'
 
 'textfiles' folder contains all raw .txt files of the books in the library.
+
+'csvfiles' folder contains all corpus .csv documents that need to be loaded in order to run the code file
 
 'LibCorpus&Vocab' folder contains all file content sorted into OHCO format, in addition to both corpora's individual vocab tables, and the Library metadata.
 
